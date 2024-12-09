@@ -10,7 +10,7 @@ The repository is organized into the following sections:
 
 ### 1. **Examples** 
    - Python scripts demonstrating key deep learning models and techniques:
-     - `simple_nn.py`: A basic fully connected neural network example.
+     - `simple_nn.py`: A basic fully connected neural network example. 
      - `cnn_example.py`: A simple Convolutional Neural Network (CNN).
      - `rnn_example.py`: Recurrent Neural Network (RNN) for sequence data.
      - `gan_example.py`: Generative Adversarial Network (GAN) to generate new data.
