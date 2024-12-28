@@ -5,7 +5,7 @@ This repository is a beginner-friendly resource for learning deep learning. It i
 ---
 
 ## 📂 Repository Structure
-
+ 
 The repository is organized into the following sections:  
  
 ### 1. **Examples** 
