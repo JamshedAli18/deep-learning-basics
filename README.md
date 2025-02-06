@@ -8,7 +8,7 @@ This repository is a beginner-friendly resource for learning deep learning. It i
  
 The repository is organized into the following sections:   
      
-### 1. **Examples** 
+ **Examples** 
    - Python scripts demonstrating key deep learning models and techniques:
      - `simple_nn.py`: A basic fully connected neural network example. 
      - `cnn_example.py`: A simple Convolutional Neural Network (CNN).
@@ -21,15 +21,6 @@ The repository is organized into the following sections:
 ---
 
 
-
-### 2. **Utilities**
-   - Helper scripts for common tasks:
-     - `data_loader.py`: Load and preprocess datasets.
-     - `model_utils.py`: Functions for training, evaluation, and saving models.
-     - `visualize.py`: Tools for visualizing training and predictions.
-     - `metrics.py`: Custom evaluation metrics.
-
----
 
 
 ## 🚀 Getting Started
